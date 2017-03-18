@@ -1,14 +1,14 @@
 [
 	{
-		"name" 			:	 "About Me",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/content.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
-	},
-	{
 		"name" 			:	 "Corporate Agency",
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/corporate-agency/thumbnail.jpg",		
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/corporate-agency/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+	},
+	{
+		"name" 			:	 "About Me",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/content.xml",
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
