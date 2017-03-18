@@ -6,39 +6,9 @@
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
-		"name" 			:	 "About Me",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/content.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
-	},
-	{
-		"name" 			:	 "Home Agency",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-agency/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-agency/content.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
-	},
-	{
-		"name" 			:	 "Home Bureau",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-bureau/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-bureau/content.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
-	},
-	{
-		"name" 			:	 "Home Business",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-business/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-business/content.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
-	},
-	{
 		"name" 			:	 "Home Consulting",
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-consulting/thumbnail.jpg",		
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-consulting/content.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
-	},
-	{
-		"name" 			:	 "Home Contact",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-contact/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-contact/content.xml",
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
@@ -48,9 +18,9 @@
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
-		"name" 			:	 "Home Fantastic",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-fantastic/thumbnail.jpg",		
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-fantastic/content.xml",
+		"name" 			:	 "Home Bureau",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-bureau/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-bureau/content.xml",
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
@@ -72,9 +42,39 @@
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
+		"name" 			:	 "Home Agency",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-agency/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-agency/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+	},
+	{
+		"name" 			:	 "Home Business",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-business/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-business/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+	},
+	{
 		"name" 			:	 "Home Soon",
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-soon/thumbnail.jpg",		
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-soon/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+	},
+	{
+		"name" 			:	 "Home Contact",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-contact/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-contact/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+	},
+	{
+		"name" 			:	 "Home Fantastic",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-fantastic/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-fantastic/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+	},	
+	{
+		"name" 			:	 "About Me",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/about-me/content.xml",
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
 	},
 	{
