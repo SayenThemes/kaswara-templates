@@ -12,6 +12,12 @@
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/home-consulting/"
 	},
 	{
+		"name" 			:	 "Home Pilling",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-pilling/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-pilling/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/home-pilling/"
+	},
+	{
 		"name" 			:	 "Home Creative",
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-creative/thumbnail.jpg",		
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-creative/content.xml",
