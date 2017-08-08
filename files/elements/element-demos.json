@@ -3,6 +3,42 @@
 		"name" 			:	 "Price Box",
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/pricebox.xml",
-		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/*"
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/price-box/"
+	},
+	{
+		"name" 			:	 "Advanced Button",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/advancedbutton.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/advanced-buttons/"
+	},
+	{
+		"name" 			:	 "3D Card Flip",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/3dcardflip.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/3d-card-flip/"
+	},
+	{
+		"name" 			:	 "Card Flip",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/cardflip.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/card-flip/"
+	},
+	{
+		"name" 			:	 "Carosel Slider",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/carouselslider.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/carousel-slider/"
+	},
+	{
+		"name" 			:	 "Count Down",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/countdown.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/countdown"
+	},
+	{
+		"name" 			:	 "Counter",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/elements/shotrcodes/counter.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/shortcodes/counter"
 	}
 ]
