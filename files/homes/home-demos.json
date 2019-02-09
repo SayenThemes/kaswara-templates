@@ -100,5 +100,69 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-vcard/thumbnail.jpg",		
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/home-vcard/content.xml",
 		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/home-vcard"
+	},
+	{
+		"name" 			:	 "Agency Home 1",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/agency-home-1/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/agency-home-1/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/agency-home-1"
+	},
+	{
+		"name" 			:	 "Agency Home 2",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/agency-home-2/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/agency-home-2/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/agency-home-2"
+	},
+	{
+		"name" 			:	 "Clean Home 6",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/clean-home-6/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/clean-home-6/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/clean-home-6"
+	},
+	{
+		"name" 			:	 "Creative Home 1",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/creative-home-1/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/creative-home-1/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/creative-home-1"
+	},
+	{
+		"name" 			:	 "Interior Design",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/interior-design/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/interior-design/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/interior-design"
+	},
+	{
+		"name" 			:	 "kameleon Gym",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/kameleon-gym/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/kameleon-gym/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/kameleon-gym"
+	},
+	{
+		"name" 			:	 "Landing Home 1",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/landing-home-1/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/landing-home-1/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/landing-home-1"
+	},
+	{
+		"name" 			:	 "Law Firm",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/law-firm/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/law-firm/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/law-firm"
+	},
+	{
+		"name" 			:	 "Photography Album",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/photography-album/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/photography-album/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/photography-album"
+	},
+	{
+		"name" 			:	 "Travel Agency",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/travel-agency/thumbnail.jpg",		
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kaswara-templates/master/files/homes/travel-agency/content.xml",
+		"previewUrl" 	:	 "http://kswr.kameleonwp.com/homes/travel-agency"
 	}
+
+
+
+
 ]
